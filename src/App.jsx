@@ -25,7 +25,7 @@ function App() {
   return (
     <>
       <div className="app">
-        <h1>App is that</h1>
+        <h1>Search any Movie on Internet</h1>
         <div className="search">
           <input type="search"
             placeholder='Search Movie...'
